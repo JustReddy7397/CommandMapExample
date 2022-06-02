@@ -1,0 +1,7 @@
+name: CommandMapExample
+version: '${project.version}'
+main: ga.justreddy.wiki.commandmapexample.CommandMapExample
+api-version: 1.18
+authors: [ JustReddy ]
+description: Example on how to use the command map
+website: https://justreddy.ga
